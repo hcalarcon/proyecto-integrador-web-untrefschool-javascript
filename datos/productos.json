@@ -1,0 +1,50 @@
+[
+    {
+        "codigo": "01",
+        "Nombre": "Quila Quina",
+        "desc_corta":"Conocé las playas más lindas del Parque Nacional Lanín después de haber difrutado de un paseo único por las aguas cristalinas del Lago Lácar.",
+        "desc_larga" :"QUILA QUINA es una villa turística, formada en la década del 40 por resolución de la Administración de Parques Nacional, aprobada por el Senado de la Nación. <br> Así se comenzó a formar la villa residencial, donde hoy conviven las propiedades privadas y la propiedad comunitaria de la Comunidad Mapuche Curruhuinca, de ocupación ancestral.    <br> Quila Quina es un vocablo mapuche que significa “tres puntas”, aunque algunos le dan el significado de “tres  familias”. El lugar y su entorno componen uno de los paisajes mas bellos de la Patagonia, además posee características únicas que permiten visitarlo todo el año y realizar diferentes actividades.        <br>El verano es la época del año de mayor concurrencia de visitantes, con muchas actividades para hacer, cómo pasear en canoas, kayak, bote o practicar stand up; también hay cabalgatas, pesca, caminatas tranquilas o senderos de trekking. <br>Tambien hay algunos puestos de artesanías de la comunidad mapuche,  con producto regionales elaborados artesanalmente. El resto del año es un lugar muy apacible, ideal para el descanso y disfrutar de la naturaleza;  recomendado para hacer una caminata tranquila, por un bosque de roble pellín y cipreses,  bordeando el lago hasta el Arroyo Grande.",
+        "imagen_pincipal": "../multimedia/img/prod_1.jpeg",
+        "imagen_1" : "../multimedia/img/prod_1_1.jpeg",
+        "imagen_2" : "../multimedia/img/prod_1_2.jpeg",
+        "imagen_3" : "../multimedia/img/prod_1_3.jpeg",
+        "precio":"$10000",
+        "duracion": "4 horas"
+    },
+    {
+        "codigo": "02",
+        "Nombre": "Hua hum",
+        "desc_corta":"Disfrutá de la excursión que te invita a conocer el corazón de San Martín de los Andes, el lago Lácar y el lago Nonthue, rodeados de los paisajes más deslumbrantes de la región.",
+        "desc_larga" :"El paseo lacustre a Hua Hum, es un paseo guiado que recorre los lagos Lacar y Nonthue, hasta llegar al comienzo del rio Hua Hum. Es un paseo de 28 km aproximadamente que visita gran parte del Parque Nacional Lanín y cuenta con varias paradas. En cada parada se desciende del barco y tienen tiempo disponible para almorzar, caminar, comprar productos  artesanales o simplemente contemplar el paisaje.<br>                En éste recorrido se visita la zona residencial y playas de Quila Quina, sobre la margen sur del lago Lacar, donde se puede disfrutar de sus playas y almorzar en el resto-bar. La siguiente parada será en el Puerto de Chachín, en la margen sur- oeste del lago Nonthue, para llegar hasta allí habrá que sortear una estrecha angostura que separa el lago Lacar del lago Nonthue.<br> Su principal atractivo la Cascada del rio Chachín, un salto de agua de unos 30 mts de altura en medio de la Selva Valdiviana. Al dejar el Puerto de Chachín y a pocos minutos se llega al Puerto Hua Hum, a metros de la boca del rio Hua Hum. Rodeado de una espesa vegetación color verde intenso que se refleja en sus cristalinas aguas. En este sector se encuentra el paso limítrofe con Chile, el hito fronterizo se encuentra a sólo 4 km; es el paso más bajo sobre la cordillera, a unos 640 msnm.<br> La última parada, ya de regreso, es en la Isla Santa Teresita que se encuentra en el lago Lacar, una isla de costas rocosas y cubierta de vegetación típica de los bosques andino patagónicos. La isla tiene una pequeña Capilla  con la imagen de Santa Teresita del Niño Jesús, que le da el nombre a la isla. La excursión hasta Hua Hum, es un paseo placentero, que surca las cristalinas aguas de dos lagos patagónicos, y como muchos de origen glaciar. Lagos rodeados por la Cordillera de los Andes,  cubierta de vegetación,  mayormente autóctona de los bosques sub antárticos. Lagos con gran protagonismo en la fundación y colonización del territorio argentino, y en el progreso de la ciudad de San Martin de los Andes.",
+        "imagen_pincipal": "../multimedia/img/prod_2.jpeg",
+        "imagen_1" : "../multimedia/img/prod_2_1.jpeg",
+        "imagen_2" : "../multimedia/img/prod_2_2.jpeg",
+        "imagen_3" : "../multimedia/img/prod_2_3.jpeg",
+        "precio":"$15000",
+        "duracion": "7 horas"
+    },
+    {
+        "codigo": "03",
+        "Nombre": "Parque Nacional Lanin",
+        "desc_corta":"Emplazado en la Cordillera de los Andes, en la provincia de Neuquén, este parque nacional abarca una superficie de 378.000 hectáreas.",
+        "desc_larga" :"Creado en 1937 con el objeto de proteger los bosques de araucaria o pehuén y otros representantes de la flora autóctona, así como su fauna y bellezas escénicas naturales entre las que se destaca el Volcán Lanín (3776 metros sobre el nivel del mar). La pintoresca población de San Marín de los Andes, situada al este el Lago Lacar, es la entrada natural al Parque Nacional Lanín.<br> En el Parque se concentran comunidades boscosas que, por su composición y características son únicas en el país. En el área norte, entre los lagos Ñorquinco y Huechulafquen se desarrolla el bosque de pehuén cuya semilla, el piñón, es rica en proteínas e hidratos de carbono. Por ello constituye parte importante en la dieta de los apuches, permitiendoles a los descendientes que pueblan actualmente el Parque recolectarlas. <br>     Asociado con el coihue o con el raulí, en el norte y en el sur del Parque, el roble pellín ocupa grandes extensiones. En las áreas que tienen un promedio anual de precipitaciones de 1500 mm se desarrolla la Selva Valdiviana. En ella los ejemplares de coihue superan los 2 m de diámetro y los 40 m de altura. Un denso sotobosque de caña colihue, asociada con arbustos como el michay y el espino negro, caracteriza este   Las comunidades vegetales se intercalan con lagos, lagunas, ríos y arroyos de aguas cristalinas que pertenecen a las once cuencas lacustres distribuidas a lo largo del Parque de norte a sur. Excepto la cuenca del lago Lacar, el resto desagua al Océano Atlántico a través de la cuenca del Río Negro. Entre la fauna se destaca la presencia de dos especies autóctonas amenazadas, el pudú o ciervo enano y el huillín o nutria, que vive en los ríos y lagos de la región Además ñas, zorros y pumas.",
+        "imagen_pincipal": "../multimedia/img/prod_3.jpeg",
+        "imagen_1" : "../multimedia/img/prod_3_1.jpeg",
+        "imagen_2" : "../multimedia/img/prod_3_2.jpeg",
+        "imagen_3" : "../multimedia/img/prod_3_3.jpeg",
+        "precio":"$20000",
+        "duracion": "12 horas"
+    },
+    {
+        "codigo": "04",
+        "Nombre": "Lago Meliquina",
+        "desc_corta":"A 30 kms. de de la ciudad costeando el lago Lacar, sobre la margen izquierda y luego de cruzar el río Hermoso, se encuentra el desvío hacia el Paso Córdoba.",
+        "desc_larga" :"<br><br><br>Se toma la RP 63 y a 6 kms. se llega al lago Meliquina, el cual es ideal para la pesca deportiva. Hasta la ribera del lago (de 8 kms. de largo por 2.5 de ancho) se encuentran hermosos bosques de coihues y cipreses. Por la ruta hacia Paso del Córdoba, se abre un camino hacia el Lago Filo Hua Hum rodeado de bosques de ñires, coihues y otros arboles caracteristicos de la zona. Si se continua el camino hasta Confluencia, por Paso Cordoba, se podran observar rocas erosionadas por el viento y los años que forman diversas e interesantes figuras.",
+        "imagen_pincipal": "../multimedia/img/prod_4.jpeg",
+        "imagen_1" : "../multimedia/img/prod_4_1.jpeg",
+        "imagen_2" : "../multimedia/img/prod_4_2.jpeg",
+        "imagen_3" : "../multimedia/img/prod_4_3.jpeg",
+        "precio":"$15000",
+        "duracion": "3 horas"
+    }
+]
