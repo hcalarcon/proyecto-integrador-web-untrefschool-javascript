@@ -14,8 +14,8 @@ let arrayDetalle = JSON.parse(detalleProducto[0]);
 
 titulo.innerHTML = `La excursion de tu sueño: ${arrayDetalle.Nombre}`;
 subtitlo.textContent = `${arrayDetalle.desc_corta}`;
-descp.innerHTML = `${arrayDetalle.desc_larga}`
 precio.innerHTML =`Precio: ${arrayDetalle.precio} | Duración: ${arrayDetalle.duracion}`
+
 carousel.innerHTML = `
 <div class="carousel-indicators">
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -25,7 +25,7 @@ carousel.innerHTML = `
               </div>
               <div class="carousel-inner">
                 <div class="carousel-item active">
-                  <img src="${arrayDetalle.imagen_pincipal}" class="d-block w-100" alt="...">
+                  <img src="${arrayDetalle.detalles_ppal}" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
                   <img src="${arrayDetalle.imagen_1}" class="d-block w-100" alt="...">
@@ -40,6 +40,9 @@ carousel.innerHTML = `
               </button>
 
 `
+descp.innerHTML = `${arrayDetalle.desc_larga}`
+
+
 const btnVolver = document.querySelector('.btnVolver');
 btnVolver.addEventListener('click', function(){
     localStorage.clear()
