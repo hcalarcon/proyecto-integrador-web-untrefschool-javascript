@@ -1,6 +1,6 @@
 const containerCard = document.querySelector(".container_Cards")
 
-fetch('../datos/productos.json')
+fetch('./datos/productos.json')
     .then((respuesta) => {
         return respuesta.json()
     })
